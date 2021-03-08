@@ -21,5 +21,3 @@ def find_maximum_and_minimum(file_name: str) -> Tuple[int, int]:
     minimum = min(set_of_numbers)
     return minimum, maximum
 
-
-find_maximum_and_minimum("files_for_task03/file_1_for_task03")
